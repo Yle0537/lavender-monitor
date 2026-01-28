@@ -975,18 +975,6 @@ ws.send('ls -la');
 - [ ] 数据报表导出功能
 - [ ] 自定义监控指标
 
-## 🤝 参与贡献
-
-我们非常欢迎您的贡献！无论是报告 Bug、提出新功能建议，还是直接提交代码。
-
-### 贡献流程
-
-1. **Fork** 本仓库
-2. 创建特性分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交您的修改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 开启 **Pull Request**
-
 ### 开发规范
 
 - 遵循项目现有代码风格
@@ -994,43 +982,8 @@ ws.send('ls -la');
 - 添加必要的单元测试
 - 更新相关文档
 
-## 📜 开源协议
-
-本项目采用 [MIT License](LICENSE) 开源协议。
-
 您可以自由地：
 - ✅ 商业使用
 - ✅ 修改源码
 - ✅ 分发
 - ✅ 私人使用
-
-## 👥 贡献者
-
-感谢所有为本项目做出贡献的开发者！
-
-<a href="https://github.com/lavender-monitor/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=lavender-monitor/lavender-monitor" />
-</a>
-
-## 💬 社区与支持
-
-- 📧 邮件：support@lavender-monitor.com
-- 💬 讨论区：[GitHub Discussions](https://github.com/lavender-monitor/discussions)
-- 🐛 问题反馈：[GitHub Issues](https://github.com/lavender-monitor/issues)
-- 📖 详细文档：[Wiki](https://github.com/lavender-monitor/wiki)
-
-## ⭐ Star History
-
-如果这个项目对您有帮助，请给我们一个 Star ⭐️
-
-[![Star History Chart](https://api.star-history.com/svg?repos=lavender-monitor/lavender-monitor&type=Date)](https://star-history.com/#lavender-monitor/lavender-monitor&Date)
-
----
-
-<div align="center">
-
-**[官网](https://lavender-monitor.com)** • **[文档](https://docs.lavender-monitor.com)** • **[演示](https://demo.lavender-monitor.com)**
-
-Made with ❤️ by Lavender Monitor Team
-
-</div>

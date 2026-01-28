@@ -9,8 +9,8 @@ spring:
     bucket: lavender-monitor
   mail:
     host: smtp.163.com
-    username: ytile37@163.com
-    password: CB7qHkMDNuCrLzM9
+    username: <email>
+    password: <password>
   rabbitmq:
     addresses: localhost
     username: admin
